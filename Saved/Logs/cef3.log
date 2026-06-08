@@ -1,5 +1,17 @@
-[56556:22160:0531/161634.518:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[56556:52040:0531/161634.546:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[56556:22160:0531/161634.555:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[50656:53660:0531/161637.741:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6F9FEC19527A4B786B2B0FC01CCCAB28 will be ignored
-[56556:22160:0531/161951.433:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[79048:80040:0607/213131.275:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[79048:69148:0607/213131.297:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[79048:80040:0607/213131.306:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[79048:74412:0607/213132.984:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[79048:74412:0607/213132.986:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[79048:74412:0607/213132.987:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[79048:74412:0607/213132.988:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Joloyce\OneDrive\Documents\GitHub\GAM-307\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[79048:55300:0607/213133.266:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[79048:55300:0607/213133.268:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[79048:77220:0607/213137.901:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[79048:77220:0607/213137.907:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[71984:51252:0607/213138.361:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B40A842AB82CDE684CD5FBD41D5C5503 will be ignored
+[75860:65880:0607/222001.451:ERROR:entry_impl.cc(1029)] No file for 80000015
+[75860:65880:0607/222001.451:ERROR:entry_impl.cc(1029)] No file for 80000017
+[75860:65880:0607/222001.451:ERROR:entry_impl.cc(1029)] No file for 80000018
+[79048:80040:0608/001140.168:ERROR:device_event_log_impl.cc(196)] [00:11:40.136] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[79048:80040:0608/001627.686:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
